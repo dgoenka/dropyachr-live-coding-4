@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "lodash.clonedeep": "^4.5.0",
+    "use-debounced-effect": "^2.0.1"
+  },
+  "devDependencies": {
+    "@types/lodash.clonedeep": "^4.5.9"
+  }
+}
